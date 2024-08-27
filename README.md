@@ -1,6 +1,3 @@
-# Uni_BitPAY
-
-Certainly! Here’s a comprehensive README file for your "Uni_bitPAY" project, including the smart contract sample code.
 
 ---
 
