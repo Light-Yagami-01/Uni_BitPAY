@@ -1,7 +1,12 @@
 
 ---
 
+
 # Uni_bitPAY
+
+![thecryptouni_logo](https://github.com/user-attachments/assets/df66ea01-50e3-4752-9ed7-1abdc07992e6)
+![553fea127028679 6139687c08543](https://github.com/user-attachments/assets/675baa51-363a-461e-aa1f-9bf3f2e22775)
+
 
 Uni_bitPAY is an innovative blockchain-based platform that allows university students to make payments for various expenses using cryptocurrency. The platform also offers students the opportunity to earn cryptocurrency by interacting with ads from university sponsors and through the use of integrated wallets.
 
@@ -153,7 +158,7 @@ contract Storage {
 ```
 0x923c67e1b465c290b9e9e12a007ca34b7670640f
 ```
-
+![Screenshot 2024-08-27 155515](https://github.com/user-attachments/assets/d3f06e9f-e77f-4ee7-961b-bb56383ef9a3)
 
 ### How to Deploy
 
